@@ -1,0 +1,27 @@
+@media (max-width: 650px) {
+  .login-container {
+    width: 90%;
+    max-width: 300px;
+    padding: 0;
+    height: auto;
+  }
+  body > div > img {
+    width: 90%;
+    height: 305px;
+    padding: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .login-container {
+    width: 90%;
+    width: 100px;
+    padding: 0;
+    height: auto;
+  }
+  body > div > img {
+    width: 90%;
+    height: 200px;
+    padding: 0;
+  }
+}
